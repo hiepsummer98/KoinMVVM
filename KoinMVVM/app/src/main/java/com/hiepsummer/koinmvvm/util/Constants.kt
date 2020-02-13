@@ -1,7 +1,7 @@
 package com.hiepsummer.koinmvvm.util
 
 object Constants {
-    const val API_Key="bec*********************67ff71e1"
+    const val API_Key="bec*********************67ff71e1" //replace it your TheMovieDb.org api key
     const val BASE_URL="https://api.themoviedb.org/3/movie/"
 
     /*
